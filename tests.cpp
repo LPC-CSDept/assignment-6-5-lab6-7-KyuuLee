@@ -29,9 +29,9 @@ TEST_CASE("Test2 ", "[Swap three values]")
 	REQUIRE(n3 == 20);
 }
 // tests for exercise 3
-TEST_CASE("Test3", "[Input Test ]")
-{
-	int n1, n2, n3;
-	getinput(n1, n2, n3);
-	cout << n1 << n2 << n3 << endl;
-}
+// TEST_CASE("Test3", "[Input Test ]")
+// {
+// 	int n1, n2, n3;
+// 	getinput(n1, n2, n3);
+// 	cout << n1 << n2 << n3 << endl;
+// }
